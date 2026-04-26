@@ -44,7 +44,7 @@ This is an ideal sandbox for experimenting with routing protocol behavior, redis
 ## 📁 Repository Structure
 
 ```
-📦 wan-routing-lab/
+📦 CPT_Routing-Environment/
 ├── 📄 README.md
 ├── 🖼️ CPT_Routing-Environment-IMG.png   ← Network topology diagram
 ├── 📄 Report: WAN - RoutingProtocols & NAT.pdf   ← Full technical documentation
