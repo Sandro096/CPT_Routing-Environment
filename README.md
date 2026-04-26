@@ -48,5 +48,5 @@ This is an ideal sandbox for experimenting with routing protocol behavior, redis
 ├── 📄 README.md
 ├── 🖼️ CPT_Routing-Environment-IMG.png   ← Network topology diagram
 ├── 📄 Report: WAN - RoutingProtocols & NAT.pdf   ← Full technical documentation
-└── 📡 wan_routing_lab.pkt     ← Cisco Packet Tracer project file
+└── 📡 WAN_Routing_Environment.pkt   ← Cisco Packet Tracer project file
 ```
