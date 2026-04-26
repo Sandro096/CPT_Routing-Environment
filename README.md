@@ -30,13 +30,6 @@ The full technical documentation — including configuration details, protocol a
 
 The **`.pkt` Packet Tracer file is included in this repository** — open it directly to explore the full topology, inspect every router's configuration, and practice hands-on in a fully operational network environment.
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Then open wan_routing_lab.pkt in Cisco Packet Tracer
-```
-
 This is an ideal sandbox for experimenting with routing protocol behavior, redistribution policies, and NAT — without any risk to a real network.
 
 ---
